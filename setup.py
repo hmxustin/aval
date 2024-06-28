@@ -41,7 +41,8 @@ setup(
              'validation strategy, validation method, validation decorator',
     project_urls={
         'GitHub': 'https://github.com/hmxustin/aval',
-        'ZIP': 'https://github.com/hmxustin/aval/archive/refs/heads/main.zip'
+        'ZIP': 'https://github.com/hmxustin/aval/archive/refs/heads/main.zip',
+        'Manual (RU)': 'https://docs.mxustin.ru/micro/validator/manual/intro'
     },
     python_requires='>=3.6'
 )
