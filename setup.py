@@ -45,8 +45,6 @@ setup(
     classifiers=[
         'Programming Language :: Python :: 3.13',
         'License :: OSI Approved :: MIT License',
-        "Intended Audience :: Developers",
-        "Topic :: Software Development :: Validation Tools",
         "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
