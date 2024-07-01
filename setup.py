@@ -29,7 +29,7 @@ def readme():
 
 setup(
     name='aval',
-    version='0.0.1',
+    version='0.0b1',
     author='Maxim Ustin',
     author_email='mxustin@gmail.com',
     description='AVal is a class capable of applying a list of validation '
@@ -45,7 +45,7 @@ setup(
     classifiers=[
         'Programming Language :: Python :: 3.13',
         'License :: OSI Approved :: MIT License',
-        'Operating System :: OS Independent'
+        'Operating System :: OS Independent',
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
         "Topic :: Software Development :: Validation Tools",
