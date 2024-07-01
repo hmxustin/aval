@@ -46,7 +46,6 @@ setup(
         'Programming Language :: Python :: 3.13',
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
-        'Development Status :: 4 - Beta',
         "Intended Audience :: Developers",
         "Topic :: Software Development :: Validation Tools",
         "Programming Language :: Python :: 3.6",
